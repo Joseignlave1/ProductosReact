@@ -1,0 +1,35 @@
+.product-search-page {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.search-field {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.add-product-button {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.product-card img {
+  height: 340px;
+}
+
+.search-bar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.search-bar-container .search-input {
+  flex-grow: 1;
+  margin-right: 1rem;
+}
+
+.search-bar-container .add-product-btn {
+  white-space: nowrap;
+}
+
